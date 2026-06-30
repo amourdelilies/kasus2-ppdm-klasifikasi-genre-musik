@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+librosa
+soundfile
+scikit-learn
+tensorflow
+keras
+joblib
+opencv-python
+tqdm
+jupyter
+ipykernel

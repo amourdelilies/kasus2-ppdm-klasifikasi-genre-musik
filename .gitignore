@@ -5,3 +5,15 @@ Data/genres_original/
 
 Data/features_3_sec.csv
 Data/features_30_sec.csv
+
+
+Data/segmented_audio/
+Data/images_original/
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+.env
+venv/
+*.pyc
+*.csv
